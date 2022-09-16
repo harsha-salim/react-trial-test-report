@@ -1,6 +1,0 @@
-fileignoreconfig:
-- filename: src/report.json
-  checksum: 9919d7ccf89a72e355509f6e04056f9a5694241a0253819756a7388dfd873f2f
-- filename: src/components/OverallExecutionSummary.js
-  checksum: d8c6b116afff453660c5d33c19cb97844ab52746d0c65c5512f958486873fa54
-version: ""
